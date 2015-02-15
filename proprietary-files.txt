@@ -2,3 +2,8 @@
 
 # Sensors
 lib/hw/sensors.msm8226.so
+
+lib/libqdutils.so
+bin/surfaceflinger
+lib/libsurfaceflinger.so
+lib/libsurfaceflinger_ddmconnection.so
